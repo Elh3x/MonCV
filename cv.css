@@ -81,10 +81,10 @@ h1 {
 	float:left;
 	height: auto;
 	width: auto;
-	background-color: #333;
+	/*background-color: #333;*/
 	color:white;
 	text-align:center;
-	border: 1px solid #e7e7e7;
+	/*border: 1px solid #e7e7e7;*/
 }
 .Formation, .Experience, .Pro_Bénévolat, .Projet_Competences, .autre{
 	
